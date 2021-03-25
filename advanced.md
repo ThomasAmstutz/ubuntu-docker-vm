@@ -16,3 +16,6 @@ En cas de soucis : https://docs.docker.com/compose/install/
 Git est encore plus facile à installer, en une seule commande : `sudo apt install git`.
 
 Maintenant on peut juste faire la commande `git --version` pour vois si git a été installé
+
+## Installation rapide
+Si tu veux installer tout ce dont on a parlé facilement, il y a un script subtilement nommé ***install.sh***
