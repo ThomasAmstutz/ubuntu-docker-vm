@@ -14,7 +14,7 @@ eleve  | Admlocal1 | 192.168.174.139
 Si tu n'as pas encore Putty, télécharge-le ici : https://www.putty.org/.
 
 Lance Putty et tape ceci : <br>
-![eleve@192.168.174.139](./img/putty1.png)<br>
+![eleve@192.168.174.139](./img/putty1.PNG)<br>
 si ça ne fonctionne pas, vérifie que la VM est bien allumée et que l'ip est bien la bonne. (```ifconfig``` pour vérifier)
 
 ## La machine
