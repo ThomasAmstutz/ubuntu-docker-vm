@@ -1,6 +1,8 @@
 # Machine virtuelle ubuntu-docker
 Ce petit guide va te faciliter la vie dans le dangereux monde de ***docker***
 
+Tout est disponible en ligne sur Github : https://github.com/ThomasAmstutz/ubuntu-docker-vm
+
 Tout d'abord, on va se connecter à la machine, lance-la et connecte-toi directement dans la VM ou utilise ***Putty*** !
 
 ## Infos de connexion
