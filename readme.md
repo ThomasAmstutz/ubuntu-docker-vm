@@ -7,7 +7,7 @@ Tout d'abord, on va se connecter à la machine, lance-la et connecte-toi directe
 
 ## Infos de connexion
 Nom d'utilisateur  | Mot de passe | Adresse IP (normalement)
-- | - | -
+--- | --- | ---
 eleve  | Admlocal1 | 192.168.174.139
 
 ## Se connecter avec Putty
